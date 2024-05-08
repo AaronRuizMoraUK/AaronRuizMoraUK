@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 ![AaronRuizMoraUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRuizMoraUK&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)
 -->
 
+<!-- Stats -->
 ![AaronRuizMoraUK's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRuizMoraUK&count_private=true&langs_count=8&theme=tokyonight&layout=compact)
 
-[![DirectX11 Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
+<!-- Pinned projects -->
+[![UE5_SimpleShooter](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_SimpleShooter)](https://github.com/AaronRuizMoraUK/UE5_SimpleShooter)
+[![UE5_ToonTanks](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_ToonTanks)](https://github.com/AaronRuizMoraUK/UE5_ToonTanks)
+[![UE5_CryptRaider](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_CryptRaider)](https://github.com/AaronRuizMoraUK/UE5_CryptRaider)
+[![UE5_ObstacleAssault](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_ObstacleAssault)](https://github.com/AaronRuizMoraUK/UE5_ObstacleAssault)
+[![O3DE_CourseProject](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=O3DE_CourseProject)](https://github.com/AaronRuizMoraUK/O3DE_CourseProject)
+[![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder)](https://github.com/AaronRuizMoraUK/cxx-reminder)
+[![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
