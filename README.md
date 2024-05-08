@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 [![UE5_CryptRaider](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_CryptRaider&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_CryptRaider)
 [![UE5_ObstacleAssault](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_ObstacleAssault&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_ObstacleAssault)
 [![O3DE_CourseProject](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=O3DE_CourseProject&theme=tokyonight)](https://github.com/AaronRuizMoraUK/O3DE_CourseProject)
-[![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder&theme=tokyonight)](https://github.com/AaronRuizMoraUK/cxx-reminder)
+[![DirectX11-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
 [![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
+[![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder&theme=tokyonight)](https://github.com/AaronRuizMoraUK/cxx-reminder)
