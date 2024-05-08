@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![AaronRuizMoraUK's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRuizMoraUK&count_private=true&langs_count=8&theme=tokyonight&layout=compact)
 
-[![DirectX11 Course](https://github-readme-stats.vercel.app/api/pin/?username=moraaar&repo=DirectX11-Course)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
+[![DirectX11 Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
