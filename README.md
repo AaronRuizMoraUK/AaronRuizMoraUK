@@ -1,4 +1,4 @@
-6# It's alive!⚡
+# It's alive!⚡
 
 Hello there, you've reached my personal GitHub space where I showcase my projects, primarily focusing on Game Development, Graphics and C++. Feel free to explore and interact with my repositories!
 
