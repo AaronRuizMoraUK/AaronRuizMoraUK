@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 ![AaronRuizMoraUK's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRuizMoraUK&count_private=true&langs_count=8&theme=tokyonight&layout=compact)
 
 <!-- Pinned projects -->
+## Graphics
+[![DirectX11-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
+[![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
+
 ## Unreal Engine
 [![UE5_SimpleShooter](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_SimpleShooter&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_SimpleShooter)
 [![UE5_ToonTanks](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_ToonTanks&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_ToonTanks)
@@ -36,10 +40,6 @@ Here are some ideas to get you started:
 
 ## Open 3D Engine
 [![O3DE_CourseProject](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=O3DE_CourseProject&theme=tokyonight)](https://github.com/AaronRuizMoraUK/O3DE_CourseProject)
-
-## Graphics
-[![DirectX11-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
-[![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
 
 ## C++
 [![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder&theme=tokyonight)](https://github.com/AaronRuizMoraUK/cxx-reminder)
