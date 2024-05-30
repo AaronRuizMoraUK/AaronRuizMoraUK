@@ -2,9 +2,9 @@
 
 Hello there, you've reached my personal GitHub space where I showcase my projects, primarily focusing on Game Development, Graphics and C++. Feel free to explore and interact with my repositories!
 
-🎮 My contributions to [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) while I was part of *Game Engine and Developer Services* (Amazon) can be found in [moraaar](https://github.com/moraaar) account.
+<img align="center" alt="O3DE"  width="32px" src="https://avatars.githubusercontent.com/u/68126246?s=48&v=4"/> My contributions to [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) while I was part of *Game Engine and Developer Services* (Amazon) can be found in [moraaar](https://github.com/moraaar) account.
 
-🔗 Dive deeper into my professional career on [LinkedIn](https://www.linkedin.com/in/aaron-ruiz-mora-5621526/)
+<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> Dive deeper into my professional career on [LinkedIn](https://www.linkedin.com/in/aaron-ruiz-mora-5621526/)
 
 <!--
 **AaronRuizMoraUK/AaronRuizMoraUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
