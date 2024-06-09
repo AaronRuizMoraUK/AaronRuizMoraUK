@@ -41,5 +41,9 @@ Here are some ideas to get you started:
 ## Open 3D Engine
 [![O3DE_CourseProject](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=O3DE_CourseProject&theme=tokyonight)](https://github.com/AaronRuizMoraUK/O3DE_CourseProject)
 
+## University
+[![Galaxy Scraper](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=GalaxyScraper&theme=tokyonight)](https://github.com/AaronRuizMoraUK/GalaxyScraper)
+[![TV3 Marathon Game](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=TV3MarathonGame&theme=tokyonight)](https://github.com/AaronRuizMoraUK/TV3MarathonGame)
+
 ## C++
 [![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder&theme=tokyonight)](https://github.com/AaronRuizMoraUK/cxx-reminder)
