@@ -29,46 +29,42 @@ Here are some ideas to get you started:
 
 <!-- Pinned projects -->
 ## Graphics
-<!--
 [![DirectX11-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
 [![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
--->
+<!--
 [DirectX11 Course](https://github.com/AaronRuizMoraUK/DirectX11-Course)
-
 [DirectX12 Resources Cheatsheet](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
+-->
 
 ## Unreal Engine
-<!--
 [![UE5_SimpleShooter](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_SimpleShooter&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_SimpleShooter)
 [![UE5_ToonTanks](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_ToonTanks&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_ToonTanks)
 [![UE5_CryptRaider](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_CryptRaider&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_CryptRaider)
 [![UE5_ObstacleAssault](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=UE5_ObstacleAssault&theme=tokyonight)](https://github.com/AaronRuizMoraUK/UE5_ObstacleAssault)
--->
+<!--
 [UE5 Simple Shooter](https://github.com/AaronRuizMoraUK/UE5_SimpleShooter)
-
 [UE5 Toon Tanks](https://github.com/AaronRuizMoraUK/UE5_ToonTanks)
-
 [UE5 Crypt Raider](https://github.com/AaronRuizMoraUK/UE5_CryptRaider)
-
 [UE5 Obstacle Assault](https://github.com/AaronRuizMoraUK/UE5_ObstacleAssault)
+-->
 
 ## Open 3D Engine
-<!--
 [![O3DE_CourseProject](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=O3DE_CourseProject&theme=tokyonight)](https://github.com/AaronRuizMoraUK/O3DE_CourseProject)
--->
+<!--
 [O3DE Course Project](https://github.com/AaronRuizMoraUK/O3DE_CourseProject)
+-->
 
 ## University
-<!--
 [![Galaxy Scraper](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=GalaxyScraper&theme=tokyonight)](https://github.com/AaronRuizMoraUK/GalaxyScraper)
 [![TV3 Marathon Game](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=TV3MarathonGame&theme=tokyonight)](https://github.com/AaronRuizMoraUK/TV3MarathonGame)
--->
+<!--
 [Galaxy Scraper](https://github.com/AaronRuizMoraUK/GalaxyScraper)
+-->
 
 [TV3 Marathon Game](https://github.com/AaronRuizMoraUK/TV3MarathonGame)
 
 ## C++
-<!--
 [![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder&theme=tokyonight)](https://github.com/AaronRuizMoraUK/cxx-reminder)
--->
+<!--
 [C++ Reminder](https://github.com/AaronRuizMoraUK/cxx-reminder)
+-->
