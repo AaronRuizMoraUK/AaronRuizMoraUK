@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 
 <!-- Pinned projects -->
 ## Graphics
+[![Vulkan-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=Vulkan-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/Vulkan-Course)
 [![DirectX11-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
 [![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
 <!--
+[Vulkan Course](https://github.com/AaronRuizMoraUK/Vulkan-Course)
 [DirectX11 Course](https://github.com/AaronRuizMoraUK/DirectX11-Course)
 [DirectX12 Resources Cheatsheet](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
 -->
@@ -59,9 +61,8 @@ Here are some ideas to get you started:
 [![TV3 Marathon Game](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=TV3MarathonGame&theme=tokyonight)](https://github.com/AaronRuizMoraUK/TV3MarathonGame)
 <!--
 [Galaxy Scraper](https://github.com/AaronRuizMoraUK/GalaxyScraper)
--->
-
 [TV3 Marathon Game](https://github.com/AaronRuizMoraUK/TV3MarathonGame)
+-->
 
 ## C++
 [![cxx-reminder](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=cxx-reminder&theme=tokyonight)](https://github.com/AaronRuizMoraUK/cxx-reminder)
