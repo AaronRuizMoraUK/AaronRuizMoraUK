@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🎮 🎲♟🎯🔧🕹
 
+![AaronRuizMoraUK's GitHub stats](./profile/stats.svg)
 ![AaronRuizMoraUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRuizMoraUK&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)
 -->
 
 <!-- Stats -->
-![AaronRuizMoraUK's Languages stats](./profile/stats.svg)
+![AaronRuizMoraUK's Languages stats](./profile/top-langs.svg)
 <!--
 ![AaronRuizMoraUK's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRuizMoraUK&count_private=true&langs_count=8&theme=tokyonight&layout=compact)
 -->
