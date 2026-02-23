@@ -23,8 +23,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=AaronRuizMoraUK&repo=Vulkan-Course&theme=tokyonight
-          path: profile/pin-AaronRuizMoraUK-Vulkan-Course.svg
+          options: username=readme-tools&repo=Vulkan-Course&theme=tokyonight
+          path: profile/pin-readme-tools-Vulkan-Course.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin DirectX11-Course card
