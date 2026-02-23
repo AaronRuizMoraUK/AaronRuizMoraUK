@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- Stats -->
+![AaronRuizMoraUK's Languages stats](./profile/stats.svg)
+<!--
 ![AaronRuizMoraUK's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRuizMoraUK&count_private=true&langs_count=8&theme=tokyonight&layout=compact)
+-->
 
 <!-- Pinned projects -->
 ## Graphics
