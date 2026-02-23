@@ -1,0 +1,116 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&layout=compact
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin Vulkan-Course card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=AaronRuizMoraUK&repo=Vulkan-Course&theme=tokyonight
+          path: profile/pin-AaronRuizMoraUK-Vulkan-Course.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin DirectX11-Course card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=DirectX11-Course&theme=tokyonight
+          path: profile/pin-readme-tools-DirectX11-Course.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin DirectX12-Resources-Cheatsheet card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight
+          path: profile/pin-readme-tools-DirectX12-Resources-Cheatsheet.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin UE5_SimpleShooter card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=UE5_SimpleShooter&theme=tokyonight
+          path: profile/pin-readme-tools-UE5_SimpleShooter.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin UE5_ToonTanks card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=UE5_ToonTanks&theme=tokyonight
+          path: profile/pin-readme-tools-UE5_ToonTanks.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin UE5_CryptRaider card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=UE5_CryptRaider&theme=tokyonight
+          path: profile/pin-readme-tools-UE5_CryptRaider.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin UE5_ObstacleAssault card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=UE5_ObstacleAssault&theme=tokyonight
+          path: profile/pin-readme-tools-UE5_ObstacleAssault.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin O3DE_CourseProject card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=O3DE_CourseProject&theme=tokyonight
+          path: profile/pin-readme-tools-O3DE_CourseProject.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin GalaxyScraper card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=GalaxyScraper&theme=tokyonight
+          path: profile/pin-readme-tools-GalaxyScraper.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin TV3MarathonGame card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=TV3MarathonGame&theme=tokyonight
+          path: profile/pin-readme-tools-TV3MarathonGame.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin cxx-reminder card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=cxx-reminder&theme=tokyonight
+          path: profile/pin-readme-tools-cxx-reminder.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
