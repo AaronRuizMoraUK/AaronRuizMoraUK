@@ -40,17 +40,10 @@ Here are some ideas to get you started:
 
 <!-- Pinned projects -->
 ## Graphics
-<a href="https://github.com/AaronRuizMoraUK/Vulkan-Course">
-  <img align="center" src="./profile/pin-readme-tools-Vulkan-Course.svg" />
-</a>
-<a href="[https://github.com/AaronRuizMoraUK/DirectX11-Course">
-  <img align="center" src="./profile/pin-readme-tools-DirectX11-Course.svg" />
-</a>
-![DirectX12-Resources-Cheatsheet](./profile/pin-readme-tools-DirectX12-Resources-Cheatsheet.svg)
-<!--
 ![Vulkan-Course](./profile/pin-readme-tools-Vulkan-Course.svg)
 ![DirectX11-Course](./profile/pin-readme-tools-DirectX11-Course.svg)
 ![DirectX12-Resources-Cheatsheet](./profile/pin-readme-tools-DirectX12-Resources-Cheatsheet.svg)
+<!--
 ![Vulkan-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=Vulkan-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/Vulkan-Course)
 ![DirectX11-Course](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX11-Course&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX11-Course)
 ![DirectX12-Resources-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=AaronRuizMoraUK&repo=DirectX12-Resources-Cheatsheet&theme=tokyonight)](https://github.com/AaronRuizMoraUK/DirectX12-Resources-Cheatsheet)
